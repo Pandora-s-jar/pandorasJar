@@ -20,6 +20,18 @@
 
 }
 
+.modal-get-offer .modal-content {
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    background-image: linear-gradient(midnightblue, white);
+    color:#FFF;
+}
+.modal-get-offer .modal-content .modal-header {
+    text-align:center;
+    border: none;
+}
+
 .hidable{
     position: relative;
     font-size:60%;
@@ -43,6 +55,10 @@
 }
 .search .fa-search{
     color: black;
+}
+#btnLogin{
+    border-radius: 20%;
+    background-color: white !important;
 }
 .search input {
     position: absolute;
