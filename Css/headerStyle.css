@@ -1,14 +1,25 @@
 .bg-info{
-    background-color: #da8b25 !important;
+    background-color: midnightblue !important;
+    border: 3px inset white;
 }
+
+.navbar-brand figure img{
+    border-radius: 15%;
+}
+
 .nav-link{
     font-size: 180%;
+}
+
+.nav-link:hover{
+    color: orange !important;
 }
 
 .nav-item{
     padding-top: 0.5%;
 
 }
+
 .hidable{
     position: relative;
     font-size:60%;
