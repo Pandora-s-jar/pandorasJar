@@ -27,6 +27,9 @@
     background-image: linear-gradient(midnightblue, white);
     color:#FFF;
 }
+.modal-content .form-control{
+    margin-bottom: 10px;
+}
 .modal-get-offer .modal-content .modal-header {
     text-align:center;
     border: none;
@@ -56,9 +59,13 @@
 .search .fa-search{
     color: black;
 }
+
 #btnLogin{
     border-radius: 20%;
-    background-color: white !important;
+    border: 5px outset;
+    background-color: darkgrey !important;
+    color: white;
+    background-image: repeating-linear-gradient(blue, darkblue);
 }
 .search input {
     position: absolute;
