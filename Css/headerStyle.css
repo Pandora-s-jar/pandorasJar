@@ -1,6 +1,7 @@
 .bg-info{
     background-color: midnightblue !important;
-    border: 3px inset white;
+    border: 1px inset white;
+    height: 130px !important;
 }
 
 .navbar-brand figure img{
@@ -8,7 +9,7 @@
 }
 
 .nav-link{
-    font-size: 180%;
+    font-size: 150%;
 }
 
 .nav-link:hover{
@@ -16,19 +17,19 @@
 }
 
 .nav-item{
-    padding-top: 0.5%;
+    padding-top: 3.2%;
 
 }
 
 .hidable{
     position: relative;
-    font-size:60%;
+    font-size:55%;
     left: 0;
-    margin-top: 1%;
+    margin-top: 20%;
     margin-bottom: 0;
 }
 .search {
-    top: 10%;
+    top: 5%;
     padding: 5px 0;
     width: 230px;
     height: 30px;
