@@ -1,24 +1,32 @@
-.bg-info{
+header .bg-info{
     background-color: midnightblue !important;
     border: 1px inset white;
-    height: 130px !important;
+    height: 150px;
 }
 
-.navbar-brand figure img{
+header .navbar-brand figure img{
     border-radius: 15%;
 }
 
-.nav-link{
+header .nav-link{
     font-size: 150%;
 }
 
-.nav-link:hover{
+header .nav-link:hover{
     color: orange !important;
 }
 
-.nav-item{
-    padding-top: 3.2%;
+header .nav-link{
+    font-size: 150%;
+}
 
+header .nav-link:hover{
+    color: orange !important;
+}
+
+
+header .nav-item{
+    padding-top: 3.2%;
 }
 
 .hidable{

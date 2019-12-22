@@ -1,0 +1,15 @@
+#wrapper{
+	width: 80%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+#content{
+	width: 70%;
+	float: right;
+}
+
+#mainNav{
+	width: 30%;
+	float: left;
+}
